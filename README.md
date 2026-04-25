@@ -34,6 +34,11 @@ A transmedia campaign combining a physical exhibition and digital experience tha
 
 ---
 
+## ⚠️ Note on images
+Images in this repository may not display correctly in the GitHub preview due to rendering limitations. However, they should display properly when the files are downloaded locally.
+
+---
+
 ## 🌐 Language Note
 This project is written in Catalan, as it is part of my academic studies at UOC.
 
